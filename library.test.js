@@ -1,6 +1,6 @@
 const { getBookById, getBooksByAuthor } = require("./library");
 
-// test
+// tests
 
 describe("getBookById", () => {
   it("should return the correct book when ID exists", () => {
